@@ -1,0 +1,178 @@
+hr{
+   border:1px dashed tomato;
+}
+b{
+  font-size:19px;
+  margin: 100px;
+  margin:10px;
+  font-style: italic;
+
+}
+img{
+  width:120px;
+  height: 110px;
+  float:right;
+  margin-right: 40px;
+
+
+
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 30px;
+  color:blue;
+}
+#object  {
+  font-size: 25px;
+  text-decoration: underline;
+  color:green;
+  margin-left:0px;
+  margin-bottom: 0px;
+
+}
+p{
+  text-align:justify;
+  font-size:16px;
+  margin-bottom: 0px;
+  margin-top:4px;
+  background:#ddd;
+}
+ol li {
+  margin-left: 0px;
+  color:blue;
+  font-size: 10px;
+
+}
+#record{
+    font-size:25px;
+    text-decoration: underline;
+    margin-left: 0px;
+    color:#FF00FF;
+}
+#table1{
+  border: 3px dotted green;
+  font-size: 20px;
+  padding: 6px;
+  margin: 0px;
+  text-align: center;
+  color: 	#4B0082;
+}
+#table1:hover{
+   color:red;
+}
+#Ability{
+    font-size:25px;
+    text-decoration: underline;
+    color: 	#C71585;
+    margin-left:0px;
+}
+#info{
+  font-size: 18px;
+  margin:6px;
+  background:#fff;
+  color:black;
+  font-style: bold;
+
+
+}
+#computer  {
+
+    font-size:25px;
+    text-decoration: underline;
+    color:  	#000080;
+    margin-left:0px;
+    margin-bottom: 0;
+}
+ul li {
+    font-size: 18px;
+    margin-left:0px;
+    margin-bottom:0;
+    color:  	#A52A2A;
+}
+#skill{
+  font-size:25px;
+  text-decoration: underline;
+  color:  	#800080;
+  margin-left:0px;
+  margin-bottom: 0;
+}
+ol li {
+  font-size: 18px;
+  color:#DC143C;
+}
+#skills li {
+   color:blue;
+}
+#skill2{
+    font-size:25px;
+    text-decoration: underline;
+    color: #FF1493;
+    margin-left:0px;
+    margin-bottom: 0;
+}
+#skill3{
+    font-size:25px;
+
+    color: 	#000080;
+    margin-left:0px;
+    margin-bottom: 0;
+}
+#skill3 ol li{
+  text-decoration: none;
+  color:green;
+}
+#skill4{
+  font-size:25px;
+  text-decoration: underline;
+  color: #FF4500;
+  margin-left:0px;
+  margin-bottom: 0;
+}
+#table2{
+  border: 2px dashed green;
+  font-size: 20px;
+  padding: 6px;
+  margin: 0px;
+  text-align: center;
+  color:#FF1493;
+
+  width:950px;
+  margin-top:10px;
+}
+#table2:hover{
+
+    color: 	#4B0082;
+}
+#skill5{
+    font-size:25px;
+    text-decoration: underline;
+    color:	#B22222;
+    margin-left:0px;
+    margin-bottom: 0;
+    margin-top:15px;
+
+}
+
+#skill6{
+  font-size:25px;
+  text-decoration: underline;
+  color: 	#FF00FF;
+  margin-left:0px;
+  margin-bottom: 0;
+
+
+
+}
+#skill7{
+  width:200px;
+  height: 70px;
+  background: black;
+  color: white;
+  font-size: 26px;
+  text-align: center;
+  margin-top: 10px;
+  padding: 5px;
+
+
+}
